@@ -1,6 +1,6 @@
 Capitain: Maíra
 Cook: Roberto
-Pilot: 
+Pilot: S
 Cleaner: 
 Guests:
  - 
